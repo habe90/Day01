@@ -5,3 +5,4 @@ Shopping List:
  -Bananas;
  -Cherries;
  -Carrots;
+ -Strawberries;
